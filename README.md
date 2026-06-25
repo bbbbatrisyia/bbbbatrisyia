@@ -1,5 +1,5 @@
 ## About Me
-Diploma in Cyber Security Technology at GMI 
+Diploma in Cyber Security Technology at GMI and 
 Currently focusing on OS Administration & Network Programming
 
 ## Tools Im Exploring
