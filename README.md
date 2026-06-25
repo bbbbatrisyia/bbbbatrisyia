@@ -1,16 +1,28 @@
-## Hi there 👋
+## About Me
+Diploma in Cyber Security Technology at GMI 
+Currently focusing on OS Administration & Network Programming
 
-<!--
-**bbbbatrisyia/bbbbatrisyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools Im Exploring
+- Kali Linux
+- Nmap
+- Wireshark
+- Cisco Packet Tracer
+- Xampp
+- Termux
+- (and more to come)
 
-Here are some ideas to get you started:
+## Currently Exploring
+- Tryhackme
+- CTF Challenges
+- Linux Fundamentals
+- (and more to come)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language Programming
+- Python
+- C
+- Java
+
+## Connect
+- LinkedIN : www.linkedin.com/in/nurbatrisyiarusidan
+
+
