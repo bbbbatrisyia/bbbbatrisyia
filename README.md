@@ -1,6 +1,6 @@
 ## About Me
 Diploma in Cyber Security Technology at GMI and 
-Currently focusing on OS Administration & Network Programming
+currently focusing on OS Administration & Network Programming
 
 ## Tools Im Exploring
 - Kali Linux
